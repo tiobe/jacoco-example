@@ -11,6 +11,9 @@ public class Student {
 		this.id2 = id2;
 		this.name = name;
 		this.score = score;
+		String bla = null;
+		int length = bla.length();
+		
 	}
 	
 	public int getId() {
